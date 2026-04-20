@@ -1,0 +1,7 @@
+vpc_cidr_block = "192.168.0.0/16"
+subnet_cidr_block = "192.168.0.0/22"
+az = "ap-southeast-1a"
+assign_public_ip = true
+key = "id_rsa"
+ami_id =  "ami-0e7ff22101b84bcff"
+ins_type = "t3.micro"
